@@ -1,0 +1,15 @@
+table{
+  border-collapse: collapse;
+  border: 1px black solid;
+  margin: 0 auto;
+}
+td{
+  border: 2px black solid;
+  padding: 4px 5px;
+}
+.product-id{
+  background: aquamarine;
+}
+.product-name{
+  background: burlywood;
+}
